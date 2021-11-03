@@ -1,0 +1,2 @@
+rootProject.name = "EmplicitIntentDemo"
+include ':app'
